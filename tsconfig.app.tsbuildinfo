@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/CompanyIdentifier.tsx","./src/components/Footer.tsx","./src/components/Hero.tsx","./src/components/Navigation.tsx","./src/components/Safety.tsx","./src/components/ServicesExperience.tsx","./src/components/WhoWeAre.tsx","./src/data/company.ts"],"errors":true,"version":"5.8.3"}
